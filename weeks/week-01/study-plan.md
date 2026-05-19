@@ -29,7 +29,7 @@
 - [x] .gitignore blocks .env and secret files
 - [x] README is substantive (not just a directory listing)
 - [x] agent-config.md is filled in
-- [ ] One session log with real reflection (not just a transcript)
+- [x] One session log with real reflection (not just a transcript)
 - [ ] Retrospective completed
 
 ---
