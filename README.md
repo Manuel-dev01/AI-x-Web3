@@ -2,7 +2,7 @@
 
 ## About Me
 
-Web3-strong developer with a Computer Engineering background and professional experience in content writing. I'm entering this program to deepen my engineering skills at the intersection of AI and blockchain — moving from writing *about* technology to building *with* it.
+Web3-strong developer with a Computer Engineering background and professional experience in content writing. I'm entering this program to deepen my engineering skills at the intersection of AI and blockchain, moving from writing *about* technology to building *with* it.
 
 **Starting point:** Solid understanding of blockchain fundamentals, smart contract concepts, and the Web3 ecosystem. Comfortable with code but looking to close the gap between theory and production-level work, particularly around AI-assisted development workflows and decentralized application architecture.
 
@@ -10,7 +10,7 @@ Web3-strong developer with a Computer Engineering background and professional ex
 
 A structured learning workspace for the AI x Web3 bootcamp. Every week gets its own self-contained folder with a study plan, session logs, and a retrospective. Reusable assets (prompts, demos, curated resources) live in their own folders.
 
-The goal is not just to complete the course but to build a reference I can come back to — and hand to someone else — months from now.
+The goal is not just to complete the course but to build a reference I can come back to and hand to someone else months from now.
 
 ## Repository Structure
 
