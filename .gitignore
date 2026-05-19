@@ -1,0 +1,45 @@
+# Environment variables — NEVER commit secrets
+.env
+.env.local
+.env.*.local
+
+# API keys and credentials
+*.key
+*.pem
+*.p12
+credentials.json
+service-account*.json
+
+# Seed phrases / private keys (test or otherwise)
+*seed*phrase*
+*private*key*
+*mnemonic*
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Build
+dist/
+build/
+.cache/
